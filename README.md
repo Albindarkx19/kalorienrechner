@@ -1,5 +1,3 @@
-# kalorienrechner
-
 # Kalorienbedarfsrechner 
 
 Dieser Kalorienrechner berechnet den täglichen Kalorienbedarf anhand von
