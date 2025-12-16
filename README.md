@@ -4,6 +4,8 @@ Dieser Kalorienrechner berechnet den täglichen Kalorienbedarf anhand von
 Körperdaten und einem detaillierten Physical Activity Level (PAL).
 Die Aktivitäten werden stundenweise erfasst, Schlaf wird automatisch berechnet.
 
+![Kalorienrechner](Kalorienrechner.png)
+
 ---
 
 ## Funktionen
