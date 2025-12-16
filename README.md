@@ -109,8 +109,3 @@ Kalorien = Erhalt + 400 kcal
 - PHP nur zur Initialisierung
 - Unterstützung für deutsches Zahlenformat (Komma)
 
----
-
-## Hinweis
-
-Die Berechnung dient zur Orientierung und ersetzt keine medizinische Beratung.
